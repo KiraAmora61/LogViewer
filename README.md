@@ -3,7 +3,6 @@
 **Knight Online .klg Log Dosyası Görüntüleyici**
 
 ## ✨ Özellikler
-
 - ✅ `.klg` dosyasını sürükle-bırak ile açma
 - ✅ 4 dil desteği (Türkçe, İngilizce, İspanyolca, Almanca)
 - ✅ Arama fonksiyonu
@@ -12,11 +11,11 @@
 ## 📖 Nasıl Kullanılır
 
 1. **LogViewer.exe'yi çalıştırın**
-2. **.klg log dosyasını pencereye sürükleyin**
-3. **Log içeriği otomatik olarak decode edilip görüntülenecektir**
-4. **Arama yapmak için üstteki arama kutusunu kullanın**
-5. **Herhangi bir satıra tıklayarak panoya kopyalayın**
-6. **Dil değiştirmek için üst menüden Dil > Türkçe/English seçin**
+2. **.klg log dosyasını pencere içine sürükleyin**
+3. **Log içeriği otomatik olarak decode edip ilgili alana yazılır**
+4. **Arama yapmak için üstteki arama kutusunu kullanınız**
+5. **Herhangi bir satıra tıklayarak panoya kopyalayabilirsiniz**
+6. **Dil değiştirmek için üst menüden Dil > Türkçe / Dil > English seçeneğini kullanın**
 
 ## 🎨 Log Seviye Renkleri
 
@@ -28,15 +27,11 @@
 | `[DEBUG]` | ⚪ Gri | Debug mesajları |
 | `[SUCCESS]` | 🟢 Yeşil | Başarı mesajları |
 
+---
+
 ## 📞 İletişim
 
-| Platform | Link |
-|----------|------|
-| Web Sitesi | [kiraguard.com](https://kiraguard.com) |
-| Forum | [forum.kiraguard.com](https://forum.kiraguard.com) |
-| R10.net | [emrekirasari](https://www.r10.net/profil/140348-emrekirasari.html) |
-| E-posta | [denizsukelebek@proton.me](mailto:denizsukelebek@proton.me) |
-| Discord | [Sunucuya Katıl](https://discord.com/invite/grYZDXXSEy) |
+**[Web Sitesi](https://kiraguard.com)** | **[Forum](https://forum.kiraguard.com)** | **[Discord](https://discord.com/invite/grYZDXXSEy)**
 
 ---
 
